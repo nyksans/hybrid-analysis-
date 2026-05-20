@@ -155,6 +155,7 @@ Heart Disease      : POSITIVE (Risk Detected)
 Hypertension       : POSITIVE (Risk Detected)
 Diabetes Risk      : Negative (Healthy)
 ```
+<img width="1590" height="955" alt="download (7)" src="https://github.com/user-attachments/assets/65d6359f-ff01-4306-91ab-2cbbad7f246d" />
 
 ---
 
